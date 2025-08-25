@@ -1,4 +1,4 @@
 # demo-git
 This is a practice repository
 <br>
-Author - Manoj Kumar
+Author - Manoj Kumar G N
